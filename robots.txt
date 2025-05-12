@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haztenes.mortoe.com/haztenes.txt
